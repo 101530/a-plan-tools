@@ -1,0 +1,22 @@
+{
+  "name": "file-organizer",
+  "version": "1.0.0",
+  "description": "自动整理文件到分类文件夹的工具",
+  "main": "file-organizer.js",
+  "bin": {
+    "organize": "./file-organizer.js"
+  },
+  "scripts": {
+    "start": "node file-organizer.js",
+    "organize": "node file-organizer.js",
+    "organize-dry": "node file-organizer.js --dry-run"
+  },
+  "keywords": [
+    "file",
+    "organizer",
+    "automation",
+    "cli"
+  ],
+  "author": "龙虾",
+  "license": "MIT"
+}
