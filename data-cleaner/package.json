@@ -2,9 +2,9 @@
   "name": "data-cleaner",
   "version": "1.0.0",
   "description": "自动清洗和标准化数据文件的 Node.js 工具",
-  "main": "../data-cleaner.js",
+  "main": "index.js",
   "bin": {
-    "data-cleaner": "./data-cleaner.js"
+    "data-cleaner": "./index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
