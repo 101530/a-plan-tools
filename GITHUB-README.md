@@ -1,0 +1,133 @@
+# A-Plan Tools
+
+## 🎯 项目介绍
+
+A-Plan Tools 是一套实用的数字产品工具集，专为提高工作效率和数据处理能力而设计。
+
+## 📦 产品列表
+
+### 1. File Organizer - 文件整理工具
+
+**功能特性：**
+- 🗂️ 自动分类文件到指定目录
+- 📁 支持多种文件类型（图片、视频、音频、文档、压缩包等）
+- 🚀 快速整理混乱的文件目录
+- 💡 智能识别文件类型和子分类
+- 🔄 支持移动或复制模式
+
+**使用方法：**
+```bash
+# 整理 Downloads 目录
+node file-organizer.js ~/Downloads
+
+# 预览模式（不实际移动文件）
+node file-organizer.js ~/Downloads --dry-run
+
+# 复制而不是移动
+node file-organizer.js ~/Downloads --copy
+```
+
+**支持的分类：**
+- 🖼️ images/ (wallpapers, screenshots, photos)
+- 🎬 videos/ (movies, tv-shows, recordings)
+- 🎵 audios/ (music, podcasts, recordings)
+- 📄 documents/ (work, personal, contracts)
+- 📦 archives/ (backup, downloads)
+- 🔧 installers/ (windows, macos, linux, mobile)
+- 📁 misc/ (temp, trash)
+
+### 2. Data Cleaner - 数据清洗工具
+
+**功能特性：**
+- 🧹 自动清洗和标准化数据
+- 📊 支持多种格式（CSV, JSON, XML, TSV）
+- ✅ 自动验证数据结构
+- 🔄 统一编码和换行符
+- 💾 自动创建备份
+
+**使用方法：**
+```bash
+# 清洗 CSV 文件
+node data-cleaner.js data.csv
+
+# 清洗 JSON 文件
+node data-cleaner.js data.json --verbose
+
+# 清洗并输出到新文件
+node data-cleaner.js data.csv --output cleaned.csv
+```
+
+**支持的格式：**
+- 📄 CSV - 去除空行、统一换行符、处理引号逗号
+- 📋 TSV - 类似CSV但使用制表符分隔
+- 📝 JSON - 移除注释、压缩空格、验证结构
+- 📑 XML - 移除注释、压缩空格、验证结构
+
+## 🚀 快速开始
+
+### 环境要求
+- Node.js >= 14.0.0
+- npm >= 6.0.0
+
+### 安装
+```bash
+# 克隆仓库
+git clone https://github.com/101530/a-plan-tools.git
+cd a-plan-tools
+
+# 安装依赖（如果需要）
+npm install
+```
+
+### 使用
+```bash
+# 整理文件
+node file-organizer.js /path/to/your/files
+
+# 清洗数据
+node data-cleaner.js /path/to/data/file.csv
+```
+
+## 📖 详细文档
+
+- [安装指南](./GITHUB-CREATION-GUIDE.md)
+- [使用说明](#使用说明)
+- [API 文档](#api文档)
+- [常见问题](#常见问题)
+- [更新日志](./CHANGELOG.md)
+
+## 🌟 特色功能
+
+### File Organizer
+- **智能识别**：基于文件名和扩展名自动分类
+- **自定义规则**：可扩展的配置系统
+- **预览模式**：Dry-run 模式预览操作结果
+- **详细日志**：实时显示操作进度
+
+### Data Cleaner
+- **格式自动检测**：自动识别文件格式
+- **批量处理**：支持多种数据格式
+- **错误处理**：完善的错误处理和恢复机制
+- **数据验证**：自动验证数据结构完整性
+
+## 🤝 贡献
+
+欢迎提交 Issue 和 Pull Request！
+
+## 📄 许可证
+
+MIT License
+
+## 📧 联系方式
+
+- GitHub: https://github.com/101530/a-plan-tools
+- Issues: https://github.com/101530/a-plan-tools/issues
+
+## 🙏 致谢
+
+感谢所有使用和支持 A-Plan Tools 的用户！
+
+---
+
+**版本:** 1.0.0
+**最后更新:** 2026-03-14
