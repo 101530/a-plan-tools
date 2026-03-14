@@ -1,0 +1,42 @@
+{
+  "name": "a-plan-tools",
+  "version": "1.0.0",
+  "description": "实用数字产品工具集 - 提高工作效率，自动化文件整理和数据清洗",
+  "main": "index.js",
+  "scripts": {
+    "file-organizer": "node file-organizer.js",
+    "data-cleaner": "node data-cleaner.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "file-organizer",
+    "data-cleaner",
+    "productivity",
+    "tools",
+    "automation",
+    "file-management",
+    "data-cleaning"
+  ],
+  "author": "101530",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/101530/a-plan-tools.git"
+  },
+  "homepage": "https://github.com/101530/a-plan-tools",
+  "bugs": {
+    "url": "https://github.com/101530/a-plan-tools/issues"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "os": [
+    "darwin",
+    "linux",
+    "win32"
+  ],
+  "cpu": [
+    "x64",
+    "arm64"
+  ]
+}

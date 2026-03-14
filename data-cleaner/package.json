@@ -1,0 +1,44 @@
+{
+  "name": "data-cleaner",
+  "version": "1.0.0",
+  "description": "自动清洗和标准化数据文件的 Node.js 工具",
+  "main": "../data-cleaner.js",
+  "bin": {
+    "data-cleaner": "./data-cleaner.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "data-cleaner",
+    "data-cleaning",
+    "data-normalization",
+    "csv-cleaner",
+    "json-cleaner",
+    "xml-cleaner",
+    "data-tools",
+    "data-processing"
+  ],
+  "author": "101530",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/101530/a-plan-tools.git"
+  },
+  "homepage": "https://github.com/101530/a-plan-tools#readme",
+  "bugs": {
+    "url": "https://github.com/101530/a-plan-tools/issues"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "os": [
+    "darwin",
+    "linux",
+    "win32"
+  ],
+  "cpu": [
+    "x64",
+    "arm64"
+  ]
+}
