@@ -45,3 +45,7 @@ dist/
 build/
 *.js.map
 *.min.js
+# Sensitive files
+NPM-PUBLISH-*.md
+NPM-TOKEN-*.md
+发布脚本/发布报告.md
