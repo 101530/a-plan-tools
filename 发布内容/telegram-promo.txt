@@ -1,0 +1,28 @@
+========================================
+Telegram Post - Productivity Tools
+========================================
+
+🛠️ 我开发了两个自动化工具，每天帮我节省大量时间：
+
+**File Organizer**
+自动整理文件到分类目录（图片、视频、文档等）
+- 节省 80% 文件整理时间
+- 支持 7+ 种文件分类
+- MIT 开源免费
+
+**Data Cleaner**
+自动清洗和标准化数据文件（CSV、JSON、XML）
+- 处理速度提升 10 倍
+- 自动验证数据结构
+- 自动创建备份
+
+安装方式：
+npm install -g file-organizer
+npm install -g data-cleaner
+
+GitHub：https://github.com/101530/a-plan-tools
+Ko-fi：https://ko-fi.com/101530
+
+#productivity #automation #开源工具
+
+========================================

@@ -1,0 +1,19 @@
+========================================
+Twitter Post - Ko-fi Promotion
+========================================
+
+☕ If you find my tools helpful, consider buying me a coffee!
+
+I build open-source tools to help people work smarter, not harder:
+- File Organizer: Auto-categorize files in seconds
+- Data Cleaner: Clean data files automatically
+
+Both are MIT licensed and free to use forever.
+
+Your support keeps me building:
+- Ko-fi: https://ko-fi.com/101530
+- GitHub: https://github.com/101530/a-plan-tools
+
+#opensource #ko-fi #support #nodejs
+
+========================================

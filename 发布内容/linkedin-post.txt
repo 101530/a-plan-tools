@@ -1,0 +1,30 @@
+========================================
+LinkedIn Post - Productivity Tools
+========================================
+
+🚀 I built two productivity tools that save me hours every week:
+
+**File Organizer**
+Automatically categorizes files (images, videos, documents) into organized folders
+- Saves 80% of file management time
+- Supports 7+ file categories
+- MIT licensed and free
+
+**Data Cleaner**
+Standardizes and cleans data files (CSV, JSON, XML)
+- Processes data 10x faster
+- Validates data structure automatically
+- Creates backups automatically
+
+Both tools are available on npm and GitHub:
+- GitHub: https://github.com/101530/a-plan-tools
+- File Organizer: npm install -g file-organizer
+- Data Cleaner: npm install -g data-cleaner
+
+If you find these tools helpful, consider supporting my work:
+- Ko-fi: https://ko-fi.com/101530
+- GitHub: https://github.com/101530/a-plan-tools
+
+#productivity #automation #opensource #nodejs #productivitytools
+
+========================================

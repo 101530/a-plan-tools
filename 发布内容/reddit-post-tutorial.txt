@@ -1,0 +1,34 @@
+========================================
+Reddit Post - r/learnprogramming
+========================================
+
+Title:
+I created paid tutorials for my open-source Node.js tools (¥29.9-¥49.9)
+
+Content:
+I've been working on A-Plan Tools, a set of productivity tools for Node.js:
+
+1. **File Organizer** - Automate file management
+   npm: https://www.npmjs.com/package/file-organizer
+   GitHub: https://github.com/101530/a-plan-tools
+
+2. **Data Cleaner** - Clean data files automatically
+   npm: https://www.npmjs.com/package/data-cleaner
+   GitHub: https://github.com/101530/a-plan-tools
+
+I just launched 3 paid tutorials:
+- File Organizer Tutorial (¥29.9)
+- Data Cleaner Tutorial (¥29.9)
+- Automation Workflow (¥49.9)
+
+Tutorials include:
+- Step-by-step guides
+- Real-world examples
+- Troubleshooting tips
+- 1 month free support
+
+Learn more: https://101530.github.io/a-plan-tools/docs/tutorials.html
+
+All tools are still free and open-source!
+
+========================================
