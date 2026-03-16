@@ -1,0 +1,17 @@
+========================================
+Twitter Post 10
+========================================
+
+CLI tools that save time ⏰
+
+File Organizer: Auto-categorize files by type
+Data Cleaner: Clean CSV, JSON, XML files
+
+MIT License 📄
+npm: a-plan-tools-file-organizer
+npm: a-plan-tools-data-cleaner
+GitHub: https://github.com/101530/a-plan-tools
+
+#nodejs #cli #opensource
+
+========================================

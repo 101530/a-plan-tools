@@ -1,0 +1,29 @@
+========================================
+Reddit Post - r/programming
+========================================
+
+Title:
+Two CLI tools to automate file organization and data cleaning (MIT, Node.js)
+
+Content:
+As a developer, I was tired of manually organizing downloaded files and cleaning messy data. So I built two CLI tools:
+
+**File Organizer**
+- Auto-categorizes files by type
+- Supports images, videos, audio, documents, archives
+- Customizable rules
+- MIT License
+
+**Data Cleaner**
+- Cleans CSV, JSON, XML, TSV files
+- Removes empty lines, trims whitespace
+- Normalizes encodings and line endings
+- Creates backups automatically
+- MIT License
+
+Both published to npm and available on GitHub:
+https://github.com/101530/a-plan-tools
+
+Open to feedback and pull requests!
+
+========================================

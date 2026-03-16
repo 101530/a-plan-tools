@@ -1,0 +1,18 @@
+========================================
+Twitter Post 4
+========================================
+
+Two new CLI tools for automation 🚀
+
+File Organizer: Auto-categorize files by type
+Data Cleaner: Clean and standardize data files
+
+Both MIT licensed and available on npm:
+- a-plan-tools-file-organizer
+- a-plan-tools-data-cleaner
+
+GitHub: https://github.com/101530/a-plan-tools
+
+#nodejs #automation
+
+========================================

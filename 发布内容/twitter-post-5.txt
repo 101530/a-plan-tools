@@ -1,0 +1,18 @@
+========================================
+Twitter Post 5
+========================================
+
+Build better tools, save time 🛠️
+
+I created two CLI tools that save hours every week:
+- File Organizer: Automate file organization
+- Data Cleaner: Clean data files automatically
+
+MIT License 📄
+npm: a-plan-tools-file-organizer
+npm: a-plan-tools-data-cleaner
+GitHub: https://github.com/101530/a-plan-tools
+
+#opensource #productivity
+
+========================================

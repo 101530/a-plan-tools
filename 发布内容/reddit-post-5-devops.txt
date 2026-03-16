@@ -1,0 +1,27 @@
+========================================
+Reddit Post - r/devops
+========================================
+
+Title:
+Two open-source Node.js CLI tools for automation (MIT License)
+
+Content:
+I created two tools to automate common dev tasks:
+
+**File Organizer**
+- Automate file organization
+- Categorize by type
+- Customizable rules
+
+**Data Cleaner**
+- Clean data files (CSV, JSON, XML, TSV)
+- Standardize formats
+- Create backups
+
+Both are MIT licensed and available on npm:
+https://www.npmjs.com/package/a-plan-tools-file-organizer
+https://www.npmjs.com/package/a-plan-tools-data-cleaner
+
+Great for automating workflows and improving productivity!
+
+========================================

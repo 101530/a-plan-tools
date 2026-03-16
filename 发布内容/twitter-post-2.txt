@@ -1,0 +1,19 @@
+========================================
+Twitter Post 2
+========================================
+
+Stop manually organizing files! 📁
+
+I built File Organizer - a CLI tool that automatically categorizes files by type:
+- Images -> images/
+- Videos -> videos/
+- Documents -> documents/
+- Archives -> archives/
+
+MIT License 📄
+npm: a-plan-tools-file-organizer
+GitHub: https://github.com/101530/a-plan-tools
+
+#productivity #devtools
+
+========================================

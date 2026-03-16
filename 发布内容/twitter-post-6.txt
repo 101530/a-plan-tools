@@ -1,0 +1,18 @@
+========================================
+Twitter Post 6
+========================================
+
+Automate file organization with Node.js 📁
+
+File Organizer CLI tool:
+✅ Auto-categorize by type
+✅ Customizable rules
+✅ Cross-platform
+✅ MIT License
+
+npm: a-plan-tools-file-organizer
+GitHub: https://github.com/101530/a-plan-tools
+
+#nodejs #cli #devtools
+
+========================================

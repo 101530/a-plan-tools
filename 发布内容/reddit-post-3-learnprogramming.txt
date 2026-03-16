@@ -1,0 +1,25 @@
+========================================
+Reddit Post - r/learnprogramming
+========================================
+
+Title:
+Sharing my first two CLI tools as a learning project (MIT License)
+
+Content:
+I recently started learning Node.js and built these two CLI tools as practice projects:
+
+1. File Organizer - A simple tool to organize files by type
+2. Data Cleaner - A tool to clean and standardize data files
+
+I learned a lot about:
+- Command-line argument parsing
+- File system operations
+- Data processing
+- Package publishing on npm
+
+Both are MIT licensed and available on GitHub:
+https://github.com/101530/a-plan-tools
+
+Would appreciate any feedback or suggestions for improvement!
+
+========================================

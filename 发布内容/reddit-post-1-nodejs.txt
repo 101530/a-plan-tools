@@ -1,0 +1,23 @@
+========================================
+Reddit Post - r/nodejs
+========================================
+
+Title:
+I built two open-source Node.js tools for file organization and data cleaning
+
+Content:
+I recently created two CLI tools to automate common tasks:
+
+1. **File Organizer** - Automatically organizes files into categories (images, videos, documents, archives)
+2. **Data Cleaner** - Cleans and standardizes data files (CSV, JSON, XML, TSV)
+
+Both tools are MIT licensed and available on npm:
+- a-plan-tools-file-organizer
+- a-plan-tools-data-cleaner
+
+GitHub: https://github.com/101530/a-plan-tools
+NPM: https://www.npmjs.com/package/a-plan-tools-file-organizer
+
+Would love feedback and contributions!
+
+========================================

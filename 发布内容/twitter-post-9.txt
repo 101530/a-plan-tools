@@ -1,0 +1,17 @@
+========================================
+Twitter Post 9
+========================================
+
+Save hours every week with automation 📊
+
+File Organizer: Organize files automatically
+Data Cleaner: Clean data files automatically
+
+Both MIT licensed:
+- npm: a-plan-tools-file-organizer
+- npm: a-plan-tools-data-cleaner
+- GitHub: https://github.com/101530/a-plan-tools
+
+#automation #productivity
+
+========================================

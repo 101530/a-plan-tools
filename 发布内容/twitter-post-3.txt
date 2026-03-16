@@ -1,0 +1,19 @@
+========================================
+Twitter Post 3
+========================================
+
+Clean messy data files in seconds! 🧹
+
+Data Cleaner is a CLI tool that:
+- Cleans CSV, JSON, XML, TSV files
+- Removes empty lines
+- Trims whitespace
+- Creates backups automatically
+
+MIT License 📄
+npm: a-plan-tools-data-cleaner
+GitHub: https://github.com/101530/a-plan-tools
+
+#dataprocessing #opensource
+
+========================================

@@ -1,0 +1,17 @@
+========================================
+Twitter Post 1
+========================================
+
+I built two open-source Node.js tools to automate common tasks:
+
+1️⃣ File Organizer - Auto-categorizes files (images, videos, documents)
+2️⃣ Data Cleaner - Cleans CSV, JSON, XML files
+
+MIT License 📄
+npm: a-plan-tools-file-organizer
+npm: a-plan-tools-data-cleaner
+GitHub: https://github.com/101530/a-plan-tools
+
+#nodejs #opensource #automation
+
+========================================

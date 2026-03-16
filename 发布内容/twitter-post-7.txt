@@ -1,0 +1,19 @@
+========================================
+Twitter Post 7
+========================================
+
+Clean data files automatically with Node.js 🧹
+
+Data Cleaner CLI tool:
+✅ CSV, JSON, XML, TSV support
+✅ Remove empty lines
+✅ Trim whitespace
+✅ Create backups
+✅ MIT License
+
+npm: a-plan-tools-data-cleaner
+GitHub: https://github.com/101530/a-plan-tools
+
+#nodejs #cli #opensource
+
+========================================

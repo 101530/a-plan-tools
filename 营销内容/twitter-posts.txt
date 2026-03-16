@@ -1,0 +1,157 @@
+Twitter Posts for a-plan-tools
+
+POST 1:
+I built two open-source Node.js tools to automate common tasks:
+
+1️⃣ File Organizer - Auto-categorizes files (images, videos, documents)
+2️⃣ Data Cleaner - Cleans CSV, JSON, XML files
+
+MIT License 📄
+npm: a-plan-tools-file-organizer
+npm: a-plan-tools-data-cleaner
+GitHub: https://github.com/101530/a-plan-tools
+
+#nodejs #opensource #automation
+
+---
+
+POST 2:
+Stop manually organizing files! 📁
+
+I built File Organizer - a CLI tool that automatically categorizes files by type:
+- Images → images/
+- Videos → videos/
+- Documents → documents/
+- Archives → archives/
+
+MIT License 📄
+npm: a-plan-tools-file-organizer
+GitHub: https://github.com/101530/a-plan-tools
+
+#productivity #devtools
+
+---
+
+POST 3:
+Clean messy data files in seconds! 🧹
+
+Data Cleaner is a CLI tool that:
+- Cleans CSV, JSON, XML, TSV files
+- Removes empty lines
+- Trims whitespace
+- Creates backups automatically
+
+MIT License 📄
+npm: a-plan-tools-data-cleaner
+GitHub: https://github.com/101530/a-plan-tools
+
+#dataprocessing #opensource
+
+---
+
+POST 4:
+Two new CLI tools for automation 🚀
+
+File Organizer: Auto-categorize files by type
+Data Cleaner: Clean and standardize data files
+
+Both MIT licensed and available on npm:
+- a-plan-tools-file-organizer
+- a-plan-tools-data-cleaner
+
+GitHub: https://github.com/101530/a-plan-tools
+
+#nodejs #automation
+
+---
+
+POST 5:
+Build better tools, save time 🛠️
+
+I created two CLI tools that save hours every week:
+- File Organizer: Automate file organization
+- Data Cleaner: Clean data files automatically
+
+MIT License 📄
+npm: a-plan-tools-file-organizer
+npm: a-plan-tools-data-cleaner
+GitHub: https://github.com/101530/a-plan-tools
+
+#opensource #productivity
+
+---
+
+POST 6:
+Automate file organization with Node.js 📁
+
+File Organizer CLI tool:
+✅ Auto-categorize by type
+✅ Customizable rules
+✅ Cross-platform
+✅ MIT License
+
+npm: a-plan-tools-file-organizer
+GitHub: https://github.com/101530/a-plan-tools
+
+#nodejs #cli #devtools
+
+---
+
+POST 7:
+Clean data files automatically with Node.js 🧹
+
+Data Cleaner CLI tool:
+✅ CSV, JSON, XML, TSV support
+✅ Remove empty lines
+✅ Trim whitespace
+✅ Create backups
+✅ MIT License
+
+npm: a-plan-tools-data-cleaner
+GitHub: https://github.com/101530/a-plan-tools
+
+#nodejs #cli #opensource
+
+---
+
+POST 8:
+Open source tools for developers 🎉
+
+Two new npm packages:
+1. a-plan-tools-file-organizer
+2. a-plan-tools-data-cleaner
+
+Both MIT licensed and available on GitHub:
+https://github.com/101530/a-plan-tools
+
+#opensource #nodejs #developer
+
+---
+
+POST 9:
+Save hours every week with automation 📊
+
+File Organizer: Organize files automatically
+Data Cleaner: Clean data files automatically
+
+Both MIT licensed:
+- npm: a-plan-tools-file-organizer
+- npm: a-plan-tools-data-cleaner
+- GitHub: https://github.com/101530/a-plan-tools
+
+#automation #productivity
+
+---
+
+POST 10:
+CLI tools that save time ⏰
+
+File Organizer: Auto-categorize files by type
+Data Cleaner: Clean CSV, JSON, XML files
+
+MIT License 📄
+npm: a-plan-tools-file-organizer
+npm: a-plan-tools-data-cleaner
+GitHub: https://github.com/101530/a-plan-tools
+
+#nodejs #cli #opensource

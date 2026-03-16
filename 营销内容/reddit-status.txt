@@ -1,0 +1,6 @@
+Reddit posts ready for posting:
+- r/nodejs
+- r/programming
+- r/learnprogramming
+- r/productivity
+- r/devops

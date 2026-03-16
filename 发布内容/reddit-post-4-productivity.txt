@@ -1,0 +1,27 @@
+========================================
+Reddit Post - r/productivity
+========================================
+
+Title:
+I built open-source tools to automate file organization and data cleaning
+
+Content:
+After years of manually organizing files and cleaning messy data, I finally built tools to automate these tasks:
+
+**File Organizer**
+- Organize downloads automatically
+- Categorize images, videos, documents, archives
+- Save hours every week
+
+**Data Cleaner**
+- Clean CSV, JSON, XML files
+- Standardize formats for analysis
+- Create backups automatically
+
+Both are MIT licensed and available on npm:
+https://www.npmjs.com/package/a-plan-tools-file-organizer
+https://www.npmjs.com/package/a-plan-tools-data-cleaner
+
+Open source and free to use!
+
+========================================
