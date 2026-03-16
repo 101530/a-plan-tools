@@ -1,6 +1,6 @@
 {
   "name": "a-plan-tools",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "实用数字产品工具集 - 提高工作效率，自动化文件整理和数据清洗",
   "main": "index.js",
   "scripts": {
